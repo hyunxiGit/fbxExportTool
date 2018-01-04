@@ -8,6 +8,7 @@ original scene will full rig and animation
 
 exported fbx will only skeletons and baked animation
 
+![exported](https://user-images.githubusercontent.com/35042300/34588450-e676bc36-f161-11e7-98d8-18dd6ab807b6.gif)
 
 to open the tool:
 1. set up the tool as normal multi-module python plugin for maya
