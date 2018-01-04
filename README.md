@@ -3,6 +3,12 @@
 2. This tool supports exporting two sets of data ( model/skeleton & skeleton/animation ) of one character shareing the same bone structure.
 1. This FBX exporter currently works with RapidRig 1.8.2‘s Rig naming convention.
 
+original scene will full rig and animation
+![original](https://user-images.githubusercontent.com/35042300/34588401-9f96e91c-f161-11e7-9865-795c2e2c20c1.gif)
+
+exported fbx will only skeletons and baked animation
+
+
 to open the tool:
 1. set up the tool as normal multi-module python plugin for maya
 
