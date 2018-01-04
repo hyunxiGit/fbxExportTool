@@ -21,6 +21,6 @@ to open the tool:
 
 to export:
 1. open the maya file
-2. click on one of the rig controller, the tool should be able to tell if this file contrain animation or not
+2. click on one of the rig controller, the tool should be able to tell if this file contains animation or not
 3. you can change export path by typing in the text area and then click save export path btn
 4. click export 
